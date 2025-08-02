@@ -31,9 +31,10 @@ Réflexes, précision et rapidité seront vos meilleurs alliés !
 
 ---
 
-## 📜 Licence
+## Licence
 
-Ce projet est sous licence MIT. Vous pouvez le modifier, le redistribuer et l’utiliser librement.
+Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+
 
 ---
 
